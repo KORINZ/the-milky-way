@@ -50,11 +50,7 @@ The project is broken down into 4 steps.
 3. Construct a formula for estimating the probability of one civilization detecting another one.
 4. Build a graphical model of the Milky Way and post radio emissions bubble from the Earth.
 
-The Drake equation is defined as
-
-$$ N = R^*\cdot f_p \cdot n_e \cdot f_l \cdot f_i \cdot f_c \cdot L  $$
-where  $N$ is the number of civilizations in the Milky Way galaxy with which communication might be possible.
-You can check the Wikipedia page of the Drake equation above to see the definitions of other parameters.
+The Drake equation is defined as $ N = R^*\cdot f_p \cdot n_e \cdot f_l \cdot f_i \cdot f_c \cdot L $ where  $N$ is the number of civilizations in the Milky Way galaxy with which communication might be possible.
 
 
 ## Results
